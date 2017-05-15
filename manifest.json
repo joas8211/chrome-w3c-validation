@@ -1,0 +1,34 @@
+{
+  "manifest_version": 2,
+  "name": "W3C Validator",
+  "short_name": "w3c-validator",
+  "version": "1.0",
+
+  "current_locale": "en",
+  "description": "Validate HTML and CSS from websites using W3C validation services.",
+
+  "author": "Jesse Sivonen",
+
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["validation.js"]
+    }
+  ],
+
+  "web_accessible_resources": [
+    "validation.js"
+  ],
+
+  "offline_enabled": false,
+  "options_ui": {
+    "chrome_style": true,
+    "page": "options.html"
+  },
+  "permissions": [
+    "tabs",
+    "storage",
+    "http://*/",
+    "https://*/"  
+  ]
+}
