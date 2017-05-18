@@ -20,6 +20,16 @@
     "validation.js"
   ],
 
+  "browser_action": {
+    "default_icon": {
+      "32": "W3C-validation-logo-32.png"
+    }
+  },
+
+  "icons": {
+    "128": "W3C-validation-logo-128.png"
+  },
+
   "offline_enabled": false,
   "permissions": [
     "tabs",
