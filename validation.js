@@ -298,7 +298,7 @@ json
 
         return function (target) {
             var validations = [];
-            console.group("%cW3C validation", "font-size: 50px; font-family: serif;")
+            console.group("%cW3C validation\n%cExtension by Jesse Sivonen", "font-size: 50px; font-family: serif;", "font-size: 14px;");
             console.groupCollapsed("Network log");
             if (typeof target != "undefined") validations.push(_validate(target));
             else {
