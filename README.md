@@ -4,7 +4,7 @@ This extension validates all HTML-documents and CSS-stylesheets, with W3C valida
 
 Trigger validation by entering code below to JavaScript console.
 ```javascript
-validate()
+validate();
 ```
 
 ## Contributing
