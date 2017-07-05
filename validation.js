@@ -242,8 +242,8 @@ json
                 icon:
                 `
                     background-image: url(Images/smallIcons_2x.png);
-                    background-size: 225px;
-                    background-position: -24px 0px;
+                    background-size: 98px;
+                    background-position: 55px 78px;
                     padding-left: 10px;
                 `,
                 text: ''
@@ -252,8 +252,8 @@ json
                 icon:
                 `
                     background-image: url(Images/smallIcons_2x.png);
-                    background-size: 225px;
-                    background-position: 83px 0px;
+                    background-size: 98px;
+                    background-position: 100px 34px;
                     padding-left: 10px;
                 `
             },
@@ -261,8 +261,8 @@ json
                 icon:
                 ` 
                     background-image: url(Images/smallIcons_2x.png);
-                    background-size: 225px;
-                    background-position: -71px 0px;
+                    background-size: 98px;
+                    background-position: 34px 13px;
                     padding-left: 10px;
                 `,
                 text: ''
@@ -271,8 +271,8 @@ json
                 icon:
                 `
                     background-image: url(Images/smallIcons_2x.png);
-                    background-size: 225px;
-                    background-position: 35px 0px;
+                    background-size: 98px;
+                    background-position: 34px 56px;
                     padding-left: 10px;
                 `
             },
@@ -280,8 +280,8 @@ json
                 icon: 
                 `
                     background-image: url(Images/smallIcons_2x.png);
-                    background-size: 225px;
-                    background-position: 59px 0px;
+                    background-size: 98px;
+                    background-position: 78px 56px;
                     padding-left: 10px;
                 `,
                 text: ''
