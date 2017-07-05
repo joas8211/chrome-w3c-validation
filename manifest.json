@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "W3C Validator",
   "short_name": "w3c-validator",
-  "version": "1.0",
+  "version": "1.0.1",
 
   "current_locale": "en",
   "description": "Validate HTML and CSS from websites using W3C validation services.",
