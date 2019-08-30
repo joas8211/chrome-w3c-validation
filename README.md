@@ -7,8 +7,8 @@ Trigger validation by entering code below to JavaScript console.
 validate();
 ```
 
-## Contributing
-You can contribute to this project by pullrequests, bugreports and feature suggestinons. All new features must be approved by the author.
+## Discontinued
+This project is discontinued and archived. Checkout some better extensions that does the same things without script injection.
 
 ## License
 [MIT](LICENSE)
